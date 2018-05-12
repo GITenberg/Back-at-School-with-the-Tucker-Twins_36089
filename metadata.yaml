@@ -1,0 +1,36 @@
+_repo: Back-at-School-with-the-Tucker-Twins_36089
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Scott, A. O. (Arthur O.)
+    alias: Scott, Arthur O.
+    gutenberg_agent_id: '25205'
+    url: http://www.gutenberg.org/2009/agents/25205
+covers:
+- cover_type: archival
+  image_path: 36089-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Speed, Nell
+    birthdate: 1878
+    deathdate: 1913
+    gutenberg_agent_id: '9429'
+    url: http://www.gutenberg.org/2009/agents/9429
+description: ''
+gutenberg_issued: '2011-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36089'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Racism -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'African Americans -- Social conditions -- Juvenile fiction'
+- !lcsh 'Boarding school students -- Juvenile fiction'
+- !lcsh 'Christmas stories'
+- !lcsh 'Twins -- Juvenile fiction'
+title: Back at School with the Tucker Twins
+url: http://www.gutenberg.org/ebooks/36089
